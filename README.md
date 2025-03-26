@@ -4,12 +4,6 @@
 
 a dark, customizable discord theme.
 
-<img width=800 src="https://github.com/refact0r/midnight-discord/raw/master/assets/screenshot1.png">
-
-<img width=800 src="https://github.com/refact0r/midnight-discord/raw/master/assets/screenshot2.png">
-
-<img width=800 src="https://github.com/refact0r/midnight-discord/raw/master/assets/screenshot3.png">
-
 ## install
 
 ### vencord/betterdiscord (or client that supports theme files)
