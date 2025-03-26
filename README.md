@@ -1,4 +1,4 @@
-<img width=800 src="https://github.com/avrefdevdev/midnight-discord/raw/master/assets/preview.png">
+<img width=800 src="https://github.com/avrefdev/midnight-discord/raw/master/assets/preview.png">
 
 # midnight
 
