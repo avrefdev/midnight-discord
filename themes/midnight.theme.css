@@ -60,7 +60,7 @@ body {
     --bg-floating: var(--bg-3); /* you can set this to a more opaque color if floating panels look too transparent */
 
     /* other options */
-    --small-user-panel: off; /* turn on to make the user panel smaller like in old discord */
+    --small-user-panel: on; /* turn on to make the user panel smaller like in old discord */
 }
 
 /* color options */
